@@ -1,5 +1,7 @@
 # Battleships
 
+Live demo: https://codesandbox.io/s/quizzical-dew-qbuckk
+
 Before starting, make sure to have NodeJS and NPM installed. Install all dependencies and start the app by executing:
 
 ```shell
